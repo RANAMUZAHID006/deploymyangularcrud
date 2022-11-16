@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Rana Muzahid",
+      "mobile": "7835917377",
+      "email": "ranamuzahid1@gmail.com",
+      "password": "rana@143",
+      "id": 2
+    },
+    {
+      "name": "Rana",
+      "mobile": "9825483578",
+      "email": "rana@mnnnn",
+      "password": "rana@142",
+      "id": 3
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    }
+  ]
+}
